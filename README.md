@@ -1,4 +1,5 @@
-<p style="color:red">shopbuzz_ecommerce </p>
+<p style="color:red">shopbuzz_ecommerce </p>  
+![profile](./assets./images/icon.png)
 
 A new Flutter project.
 
